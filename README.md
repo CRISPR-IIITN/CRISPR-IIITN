@@ -53,7 +53,16 @@ Active contributors:
 - **[Yash Shinde](https://github.com/Yash200691)**
 - **[Aryan Pande](https://github.com/AryanPande01)**
 - **[Shivaprasad Gowda](https://github.com/CodingYodha)**
+- **[Rudra](https://github.com/Crazyop757)**
+
+
+Past Contributors:
+- **[Krishna Chaudhari](https://github.com/TrueKrishna)**
+- **[Jaivardhan Bhola](https://github.com/jaivardhan-bhola)**
 - **[Harsh Vardhan](https://github.com/The-Harsh-Vardhan)**
+- **[Bhuvan Goel](https://github.com/bhuvangoel04)**
+- **[Aakarsh Maurya](https://github.com/Aakarsh133)**
+
 
 ---
 
