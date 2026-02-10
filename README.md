@@ -109,7 +109,7 @@ This section acknowledges individuals who actively contribute to development, re
 
 ### Current Collaborators
 
-- **[Collaborator Name]** – [Role/Domain, e.g., Web Development / Research / Infrastructure]
+- **@SohamPawar1866**
 - **[Collaborator Name]** – [Role/Domain]
 - **[Collaborator Name]** – [Role/Domain]
 
