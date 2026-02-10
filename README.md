@@ -48,8 +48,8 @@ Most work happens directly through project repositories and active collaboration
 Active contributors:
 
 - **[Soham Pawar](https://github.com/sohampawar1866)**
-- **[Vedansh Madan](https://github.com/madanVedansh21)**
 - **[Kunal Mohapatra](https://github.com/kunal1234t)**
+- **[Vedansh Madan](https://github.com/madanVedansh21)**
 - **[Yash Shinde](https://github.com/Yash200691)**
 - **[Aryan Pande](https://github.com/AryanPande01)**
 - **[Shivaprasad Gowda](https://github.com/CodingYodha)**
