@@ -6,14 +6,14 @@
 
 # CRISPR  
 ### Central Research Initiative & Student Public Relations  
-Indian Institute of Information Technology, Nagpur  
+IIIT Nagpur  
 
-Editing the cultural and technical DNA of IIIT Nagpur.
+Building practical tech. Encouraging real innovation.
 
 <p>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Tech%20%7C%20Research%20%7C%20Infrastructure-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Institutional%20Body-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Innovation%20%7C%20Projects%20%7C%20Engineering-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Technical%20Club-blue?style=flat-square" />
 </p>
 
 </div>
@@ -22,22 +22,24 @@ Editing the cultural and technical DNA of IIIT Nagpur.
 
 ## About
 
-CRISPR is the central technical and research body of IIIT Nagpur.  
-We build and maintain institutional software, infrastructure, and research-driven technical systems used across the institute.
+CRISPR is the technical and innovation club of IIIT Nagpur.
 
-Our work focuses on reliability, clean engineering, and long-term maintainability.
+Our main focus is building practical projects that can actually be used.  
+We encourage students to experiment, innovate, and work on real systems instead of only theoretical work.
+
+The goal is simple: build things that work and learn by creating.
 
 ---
 
-## Work
+## What we do
 
-- Institutional web platforms and student systems  
-- Servers and shared infrastructure  
-- Internal tools and automation  
-- Research and experimental projects  
-- Technical support for institute initiatives  
+- Build real-world software and technical projects  
+- Work on innovative ideas and experimental builds  
+- Collaborate on hackathons and open-source  
+- Support technical initiatives inside the institute  
+- Maintain useful internal tools and platforms  
 
-Each project is maintained in its respective repository with proper documentation.
+Most work happens directly through project repositories and active collaboration.
 
 ---
 
@@ -57,12 +59,13 @@ Active contributors:
 
 ## Joining
 
-CRISPR is a focused technical group.  
-Students interested in contributing should demonstrate consistent work and ownership.
+If you like building real projects and experimenting with ideas, you will fit in well.
 
-Contact: **crispr@iiitn.ac.in**
+Explore the repositories, start building, and reach out.
+
+**Contact:** crispr@iiitn.ac.in  
 
 ---
 
-**Central Research Initiative & Student Public Relations**  
-Indian Institute of Information Technology, Nagpur
+CRISPR  
+IIIT Nagpur
