@@ -100,6 +100,33 @@ crispr@iiitn.ac.in
 
 ---
 
+<hr style="border:0;border-top:1px solid #2f81f7;" />
+
+## Collaborators
+
+CRISPR collaborates with students and contributors across multiple technical and research domains.  
+This section acknowledges individuals who actively contribute to development, research, infrastructure, and organizational initiatives.
+
+### Current Collaborators
+
+- **[Collaborator Name]** – [Role/Domain, e.g., Web Development / Research / Infrastructure]
+- **[Collaborator Name]** – [Role/Domain]
+- **[Collaborator Name]** – [Role/Domain]
+
+### How Collaborations Work
+
+Collaborators may contribute through:
+
+- Technical development and system maintenance  
+- Research and experimental projects  
+- Infrastructure and tooling support  
+- Documentation and publications  
+- Event and institutional technical coordination  
+
+Collaborator listings are updated periodically based on active contributions and organizational involvement.
+
+---
+
 ## Contribution Guidelines
 
 All contributions to CRISPR repositories are expected to follow established engineering and documentation standards.
