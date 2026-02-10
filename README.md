@@ -1,113 +1,82 @@
 <!-- ========================================================= -->
-<!--  CRISPR – IIIT Nagpur | Core Overview -->
+<!--  CRISPR – IIIT Nagpur -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img
-    src="Crispr-animated-poster.gif"
-    alt="CRISPR IIIT Nagpur Animated Logo"
-    width="100%"
-  />
+  <img src="Crispr-animated-poster.gif" width="100%" alt="CRISPR IIIT Nagpur"/>
 </p>
 
 <div align="center">
 
-<h1>CRISPR : Central Research Initiative & Student Public Relations</h1>
+# CRISPR  
+### Central Research Initiative & Student Public Relations  
+*Indian Institute of Information Technology, Nagpur*
 
-<p><em>Editing the cultural and technical DNA of IIIT Nagpur.</em></p>
+Editing the cultural and technical DNA of IIIT Nagpur.
 
 <p>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Type-Student%20Initiative-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Tech%20|%20Research%20|%20Community-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Institute-IIIT%20Nagpur-grey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Engineering%20%7C%20Research%20%7C%20Infrastructure-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Institutional%20Technical%20Body-blue?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-## Overview
-
-Central Research Initiative & Student Public Relations (CRISPR) is a student-led technical and research organization at the Indian Institute of Information Technology, Nagpur. The organization focuses on building and maintaining technical platforms, supporting research-driven initiatives, and managing student-facing digital infrastructure.
-
----
-
 ## About
 
-CRISPR functions as a central technical body that designs, develops, and maintains software systems and digital resources used within the institute. Alongside technical development, the organization also handles student publications, internal tooling, and technical coordination for events and institutional initiatives.
+CRISPR is the central student-led technical and research body of the Indian Institute of Information Technology, Nagpur.
 
-The objective of CRISPR is to create reliable, well-documented, and maintainable systems while promoting a culture of technical rigor, collaboration, and responsibility among students.
+The organization designs, builds, and maintains institutional software systems, shared infrastructure, and research-driven technical initiatives used across the institute.
 
----
-
-<hr style="border:0;border-top:1px solid #2f81f7;" />
-
-## Domains of Work
-
-CRISPR operates across multiple verticals, including:
-
-- Web and software development for institute and student use
-- Server management and shared infrastructure
-- Research-oriented and experimental projects
-- Student publications and editorials
-- Technical support for events and institutional initiatives
+CRISPR operates with a long-term systems approach — prioritizing reliability, maintainability, and institutional continuity over short-term development.
 
 ---
 
-<hr style="border:0;border-top:1px solid #2f81f7;" />
+## Scope of Work
 
-## Projects
+CRISPR functions as an institutional engineering and research unit responsible for:
 
-The organization maintains multiple repositories that represent its active and past work. These include, but are not limited to:
+- Institutional platforms and student-facing systems  
+- Shared servers and infrastructure  
+- Research and experimental engineering projects  
+- Internal automation and tooling  
+- Technical support for institute initiatives and events  
+- Student publications and digital resources  
 
-- Internal and public-facing web platforms
-- Centralized servers and shared services
-- Student portals and management systems
-- Event-related technical systems
-
-Each repository contains its own documentation describing scope, setup instructions, and contribution guidelines.
-
-### Repository Presentation Standards
-
-To maintain clarity and consistency, CRISPR follows a repository-first visual approach:
-
-- Visual elements such as screenshots, demo GIFs, and architecture diagrams are included **inside individual project repositories**, not on the organization root.
-- Each active project repository is expected to include:
-  - A concise project description
-  - Setup and usage instructions
-  - At least one visual reference (screenshot or demo) where applicable
-
-This ensures that visual context is provided where it is most relevant, without cluttering the organization overview.
+All systems are developed with an emphasis on documentation, stability, and maintainability.
 
 ---
 
-<hr style="border:0;border-top:1px solid #2f81f7;" />
+## Repositories
 
-## Joining CRISPR
+This organization contains repositories representing active systems, infrastructure, and experimental work.
 
-CRISPR is a selective organization. Interested students are expected to demonstrate consistency, technical responsibility, and a willingness to work on long-term systems.
+Repository categories include:
 
-To express interest:
+- Institutional web platforms and portals  
+- Infrastructure and deployment systems  
+- Automation and internal tools  
+- Research and experimental projects  
 
-1. Review the organization repositories and documentation.
-2. Contact the organization at the official email address with a brief introduction.
-3. Shortlisted candidates may be invited for further evaluation or onboarding tasks.
+Each repository maintains independent documentation covering architecture, setup, and contribution requirements.
 
-Official contact email:
+### Repository Standards
 
-crispr@iiitn.ac.in
+CRISPR follows a repository-first structure:
+
+- Visuals, demos, and architecture diagrams remain within individual repositories  
+- Each active repository must include:
+  - Clear technical documentation  
+  - Setup and usage instructions  
+  - Relevant visual or architectural references  
 
 ---
-
-<hr style="border:0;border-top:1px solid #2f81f7;" />
 
 ## Collaborators
 
-CRISPR collaborates with students and contributors across multiple technical and research domains.  
-This section acknowledges individuals who actively contribute to development, research, infrastructure, and organizational initiatives.
-
-### Current Collaborators
+Active contributors to CRISPR initiatives:
 
 - **[Soham Pawar](https://github.com/sohampawar1866)**
 - **[Vedansh Madan](https://github.com/madanVedansh21)**
@@ -117,37 +86,39 @@ This section acknowledges individuals who actively contribute to development, re
 - **[Shivaprasad Gowda](https://github.com/CodingYodha)**
 - **[Harsh Vardhan](https://github.com/The-Harsh-Vardhan)**
 
-
-
-### How Collaborations Work
-
-Collaborators may contribute through:
-
-- Technical development and system maintenance  
-- Research and experimental projects  
-- Infrastructure and tooling support  
-- Documentation and publications  
-- Event and institutional technical coordination  
-
-Collaborator listings are updated periodically based on active contributions and organizational involvement.
+Collaborator listings reflect active technical and research contributions.
 
 ---
 
-## Governance and Policies
+## Membership
 
-CRISPR maintains formal governance and operational documents, which may include:
+CRISPR operates as a focused technical body rather than an open club.
 
-- Organizational constitution
-- Code of conduct
-- Contribution policies
+Selection is based on:
+- Consistent technical work  
+- Ownership and responsibility  
+- Long-term contribution potential  
 
-These documents define roles, responsibilities, and expected standards of behavior within the organization.
+Prospective members are expected to demonstrate work through projects, research, or infrastructure contributions.
+
+**Contact:** crispr@iiitn.ac.in
+
+---
+
+## Governance
+
+CRISPR maintains internal governance and engineering standards to ensure continuity and quality across all systems.
+
+Internal documentation may include:
+- Organizational structure and responsibilities  
+- Engineering and contribution standards  
+- Code of conduct and operational policies  
 
 ---
 
 ## Contact
 
-Central Research Initiative & Student Public Relations
-Indian Institute of Information Technology, Nagpur
+**Central Research Initiative & Student Public Relations**  
+Indian Institute of Information Technology, Nagpur  
 
-Email: crispr@iiitn.ac.in
+Email: **crispr@iiitn.ac.in**
