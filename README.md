@@ -64,6 +64,16 @@ Past Contributors:
 - **[Aakarsh Maurya](https://github.com/Aakarsh133)**
 
 
+## How to Contribute?
+
+We encourage practical contributions and new ideas.
+
+- Pick a repository or propose a project  
+- Fork, build, and submit a pull request  
+- Keep code clean and well documented  
+
+Build things that are useful and innovative.
+
 ---
 
 ## Joining
