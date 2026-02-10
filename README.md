@@ -109,9 +109,15 @@ This section acknowledges individuals who actively contribute to development, re
 
 ### Current Collaborators
 
-- **@SohamPawar1866**
-- **[Collaborator Name]** – [Role/Domain]
-- **[Collaborator Name]** – [Role/Domain]
+- **[Soham Pawar](https://github.com/sohampawar1866)**
+- **[Vedansh Madan](https://github.com/madanVedansh21)**
+- **[Kunal Mohapatra](https://github.com/kunal1234t)**
+- **[Yash Shinde](https://github.com/Yash200691)**
+- **[Aryan Pande](https://github.com/AryanPande01)**
+- **[Shivaprasad Gowda](https://github.com/CodingYodha)**
+- **[Harsh Vardhan](https://github.com/The-Harsh-Vardhan)**
+
+
 
 ### How Collaborations Work
 
