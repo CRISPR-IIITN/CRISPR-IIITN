@@ -127,21 +127,6 @@ Collaborator listings are updated periodically based on active contributions and
 
 ---
 
-## Contribution Guidelines
-
-All contributions to CRISPR repositories are expected to follow established engineering and documentation standards.
-
-General expectations include:
-
-- Clear and meaningful commit messages
-- Proper documentation for new features or changes
-- Code readability and maintainability
-- Adherence to repository-specific guidelines
-
-Detailed contribution rules are provided in the respective repository documentation.
-
----
-
 ## Governance and Policies
 
 CRISPR maintains formal governance and operational documents, which may include:
