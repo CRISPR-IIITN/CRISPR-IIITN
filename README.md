@@ -43,7 +43,7 @@ Most work happens directly through project repositories and active collaboration
 
 ---
 
-## Collaborators
+## Contributors
 
 Active contributors:
 
